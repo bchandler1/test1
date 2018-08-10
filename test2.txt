@@ -1,1 +1,1 @@
-hello, it's a new GIT test & it's fun!!!
+hello, it's a new GIT test & it's fun!!! & test conflict
